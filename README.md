@@ -1,35 +1,267 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Ramtamang-2058 
+jshjohnson
+/
+Animate
+Public
+Code
+Issues
+6
+Pull requests
+12
+Actions
+Projects
+Wiki
+Security
+Insights
+Animate/README.md
+@jshjohnson
+jshjohnson Update readme badges
+Latest commit 6898e2e on Oct 24, 2019
+ History
+ 2 contributors
+@jshjohnson@michaeldfoley
+227 lines (164 sloc)  6.59 KB
 
+# Animate.js [![Actions Status](https://github.com/jshjohnson/Animate/workflows/Unit%20Tests/badge.svg)](https://github.com/jshjohnson/Animate/actions) [![Actions Status](https://github.com/jshjohnson/Animate/workflows/Bundlesize/badge.svg)](https://github.com/jshjohnson/Animate/actions) [![npm](https://img.shields.io/npm/v/animate.js.svg)](https://www.npmjs.com/package/animate.js)
 
+A tiny library (~6kb) written in TypeScript to trigger animations on elements when they come into view 👓.
 
+[Demo](https://joshuajohnson.co.uk/Animate/)
 
-<h1 align="center">👋 I am Ram Tamang</h1>
+----
+### Interested in writing your own JavaScript plugins? Check out [ES6.io](https://ES6.io/friend/JOHNSON) for great tutorials!
+----
 
-<h3 align="center">mainly focoused in AI & Meachine learning  </h3>
+## Setup
+```html
+<script src="/assets/js/dist/animate.js"></script>
+<script>
+    var animate = new Animate({        
+        target: '[data-animate]',
+        animatedClass: 'js-animated',
+        offset: [0.5, 0.5],
+        delay: 0,
+        remove: true,
+        scrolled: false,
+        reverse: false,
+        onLoad: true,
+        onScroll: true,
+        onResize: false,
+        disableFilter: false,
+        callbackOnInit: function() {},
+        callbackOnInView: function(el) {},
+        callbackOnAnimate: function(el) {},
+    });
+    animate.init();
+</script>
+```
 
+## Installation
+To install via NPM, run `npm install animate.js` 
 
+## Options
+#### target
+Type: `String` Default: `[data-animate]`
 
+Element(s) reference to target (`querySelectorAll` is called against this value). Once this element is in view, add animations.
 
-- 🔭 also intrest in IOT (internet of things) , Agumented reality , virtual reality & Metaverse
-- 🌱 Learning new day new things
-- 🥅 Always ready to learn
-- 👯 I love to do  projects
+#### animatedClass
+Type: `String` Default: `js-animated`
 
+Class to be added to element once animation has completed.
 
+#### offset
+Type: `Array/Number` Default: `[0.5, 0.5]`
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=subash-5&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight)]()
+The vertical and horizontal percentages of the element that needs to be in the viewport before the animation triggers. If a single number is passed instead of an array, that number will be used for both the vertical and horizontally offset.
 
+*Examples*
 
-<h1 align="center"> Languages And Tools : <h1>
+```js
+// Trigger animations when 50% of an elements height 
+// is within the viewport and 100% of its width:
+var animate = new Animate({
+    target: '[data-animate]',
+    animatedClass: 'visible',
+    offset: [0.5, 1],
+});
+// Trigger animations when 100% of an elements height 
+// is within the viewport and 25% of its width:
+var animate = new Animate({
+    target: '[data-animate]',
+    animatedClass: 'visible',
+    offset: [1, 0.25],
+});
+// Trigger animations when 50% of an elements height 
+// is within the viewport and 50% of its width:
+var animate = new Animate({
+    target: '[data-animate]',
+    animatedClass: 'visible',
+    offset: 0.5,
+});
+```
 
+####  delay
+Type: `Number` Default: `0`
 
-<img align="center" alt="Visual Studio Code" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="git" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="center" alt="HTML5" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="center" alt="CSS3" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="center" alt="JavaScript" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50"/> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"/>
-<img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50"/>
+Milisecond delay before animation is added to element in view.
+
+####  remove
+Type: `Boolean` Default: `true`
+
+Whether animation classes should removed when the animations complete.
+
+####  reverse
+Type: `Boolean` Default: `false`
+
+Once the element has left the top of the viewport (by the same offset), remove the animations from element. When the element comes back into view, it will animate again.
+
+####  scrolled
+Type: `Boolean` Default: `false`
+
+Animate any elements that a user has already scrolled past on load. This will only trigger if the `onLoad` option (see below) is `true`.
+
+#### onLoad
+Type: `Boolean` Default: `true`
+
+Whether to fire on DOMContentLoaded.
+
+#### onScroll
+Type: `Boolean` Default: `true`
+
+Whether to fire on scroll.
+
+#### onResize
+Type: `Boolean` Default: `false`
+
+Whether to fire on resize.
+
+### disableFilter
+Type: `Function` Default: `null`
+
+Function to determine whether Animate should animate elements.
+
+*Example*
+
+```js
+// Function to determine whether we are on a mobile device
+var isMobile = function() {
+    if (window.matchMedia("(max-width: 480px)").matches) {
+        return true;
+    } else {
+        return false;
+    }
+};
+// Disable Animate.js if isMobile returns true
+var animate = new Animate({
+    onResize: true,
+    disableFilter: isMobile,
+});
+```
+
+#### callbackOnInit
+Type: `Function` Default: `function(){}`
+
+Function to run once Animate.js initialises
+
+#### callbackOnInView
+Type: `Function` Default: `function(el){}`
+
+Function to run once the element is in the viewport (pass parameter to access the element).
+
+#### callbackOnAnimate 
+Type: `Function` Default: `function(el){}`
+
+Function to run once animation has completed (pass parameter to access the animated element).
+
+## Element overrides
+
+##### `data-animate`
+
+Default way of targeting an element to animate (no value required). This can be overridden to be a custom attribute or class.
+
+##### `data-animation-classes`
+
+Animations to be added to element when it is in view. To add multiple classes, seperate each class with a space (as you would normally).
+
+### Optional element overrides
+##### `data-animation-delay`
+
+Overide the plugin `delay` option per element.
+
+##### `data-animation-offset`
+
+Override the plugin `offset` option per element.
+
+##### `data-animation-remove`
+
+Overide the plugin `removeAnimations` option per element.
+
+##### `data-animation-reverse`
+
+Overide the plugin `reverse` option per element.
+
+#### Examples
+```html
+<div data-animate data-animation-classes="animated fadeIn"></div>
+<div data-animate data-animation-classes="animated tada" data-animation-delay="1000"></div>
+<div data-animate data-animation-classes="animated bounce" data-animation-offset="0.2, 0.5"></div>
+<div data-animate data-animation-classes="animated bounce" data-animation-remove="true"></div>
+```
+
+## Methods
+#### init();
+Initialises event listeners.
+#### kill();
+Kills event listeners and resets options.
+#### render();
+Adds/removes animations without the need for event listeners.
+
+## Browser compatibility
+Animate.js is supported in modern browsers from IE9 and above (i.e. browsers that support CSS animations). Due to discrepencies in support for `Element.classList`, I would recommend including the very good [classList polyfill](https://github.com/eligrey/classList.js/) before you include animate.js. I would also suggest using Modernizr to feature detect CSS animations/transitions and apply override styling for browsers that do not support those features.
+
+Using SCSS, this may look like this:
+
+```css
+.animate {
+    opacity: 0;
+    .no-csstransitions &, .no-cssanimations &  {
+        opacity: 1;
+    }
+}
+```
+
+## Development
+To setup a local environment: clone this repo, navigate into it's directory in a terminal window and run the following command:
+
+* ```npm install```
+
+### Gulp tasks
+* ```npm run dev```
+* ```npm run test```
+* ```npm run build```
+
+## Contributions
+In lieu of a formal style guide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using Gulp...bla bla bla
+
+## License
+MIT License 
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
