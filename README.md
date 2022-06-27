@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">👋 I am subash sigdel</h1>
+<h1 align="center">👋 I am Ram Tamang</h1>
 
 <h3 align="center">mainly focoused in AI & Meachine learning  </h3>
 
