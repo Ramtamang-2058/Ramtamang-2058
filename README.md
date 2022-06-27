@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 I am Ram Tamang</h1>
 
-<h3 align="center">mainly focoused in AI & Meachine learning  </h3>
+<h3 align="center">Python Backend Developer </h3>
 
 
 
