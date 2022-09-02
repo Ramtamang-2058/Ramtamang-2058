@@ -14,7 +14,7 @@
 - 🥅 Always ready to learn
 - 👯 I love to do  projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ramtamang-2058)](https://github.com/Ramtamang-2058/github-profile-trophy)
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=tokyonight&showicons=true)]()
