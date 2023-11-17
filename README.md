@@ -2,30 +2,34 @@
   <img src="https://github.com/Ramtamang-2058/Ramtamang-2058/blob/main/assets/banner.png" alt="Banner">
 </p>
 
-<h1 align="center">👋 Hi, I'm Ram Tamang</h1>
+<h1 align="center">👋 Hello, I'm Ram Tamang</h1>
 
-<h3 align="center">Python Backend Developer | Passionate about IOT, AR, VR & Metaverse</h3>
+<h3 align="center">Python Backend Developer | Exploring the Frontiers of Technology</h3>
 
 <p align="center">
-  <a href="https://twitter.com/your_twitter_handle"><img alt="Twitter" src="https://img.shields.io/twitter/follow/your_twitter_handle?style=flat-square&logo=twitter"></a>
-  <a href="https://www.linkedin.com/in/your_linkedin_profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://twitter.com/your_twitter_handle"><img alt="Twitter" src="https://img.shields.io/twitter/follow/your_twitter_handle?style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a>
+  <a href="https://www.linkedin.com/in/your_linkedin_profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-- 🔭 Exploring the realms of IOT, Augmented Reality, Virtual Reality, and the Metaverse.
-- 🌱 Always eager to learn and stay updated with the latest technologies.
-- 👯 Enthusiastic about collaborating on innovative projects.
-- 🥅 Constantly setting new goals and challenges for myself.
+<p align="center">
+  <samp>
+    🔭 Exploring the realms of IOT, Augmented Reality, Virtual Reality, and the Metaverse. <br>
+    🌱 Always eager to learn and stay updated with the latest technologies. <br>
+    👯 Enthusiastic about collaborating on innovative projects. <br>
+    🥅 Constantly setting new goals and challenges for myself.
+  </samp>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ramtamang-2058&theme=gruvbox" alt="Trophies">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=algolia&show_icons=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&layout=compact&theme=algolia" alt="Top Languages">
 </p>
 
 <h1 align="center">Languages And Tools</h1>
