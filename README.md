@@ -1,54 +1,44 @@
-<h1 align="center">👋 I am Ram Tamang</h1>
+<p align="center">
+  <img src="https://github.com/Ramtamang-2058/Ramtamang-2058/blob/main/assets/banner.png" alt="Banner">
+</p>
 
-<h3 align="center">Python Backend Developer </h3>
+<h1 align="center">👋 Hi, I'm Ram Tamang</h1>
 
-I am a passionate Python Backend Developer with a keen interest in IoT (Internet of Things), Augmented Reality, Virtual Reality, and the Metaverse. I am constantly learning new things and am always eager to take on new challenges. I am also a project lover and enjoy working on a variety of projects.
+<h3 align="center">Python Backend Developer | Passionate about IOT, AR, VR & Metaverse</h3>
 
-<h2 align="center"> Skills and Tools</h2>
+<p align="center">
+  <a href="https://twitter.com/your_twitter_handle"><img alt="Twitter" src="https://img.shields.io/twitter/follow/your_twitter_handle?style=flat-square&logo=twitter"></a>
+  <a href="https://www.linkedin.com/in/your_linkedin_profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
-* Proficient in Python
-* Experience with Django and Flask
-* Familiarity with SQL and NoSQL databases
-* Cloud computing experience with AWS and GCP
-* DevOps knowledge
-* Proficient in Visual Studio Code and Git
-* Experienced with HTML5, CSS3, and JavaScript
-* Familiarity with Amazon Web Services (AWS) and OpenCV
-* Experience with Python libraries such as scikit-learn and TensorFlow
+- 🔭 Exploring the realms of IOT, Augmented Reality, Virtual Reality, and the Metaverse.
+- 🌱 Always eager to learn and stay updated with the latest technologies.
+- 👯 Enthusiastic about collaborating on innovative projects.
+- 🥅 Constantly setting new goals and challenges for myself.
 
-<h2 align="center"> Experience</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramtamang-2058&theme=gruvbox" alt="Trophies">
+</p>
 
-**[Company Name]** | **Title** | **Dates**
----|---
----|---
-[Your Company] | [Your Job Title] | [Your Start Date] - [Your End Date]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=tokyonight&showicons=true" alt="GitHub Stats">
+</p>
 
-<h2 align="center"> Projects</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight" alt="Top Languages">
+</p>
 
-* [Project Name] ([Link to project])
-* [Project Name] ([Link to project])
-* [Project Name] ([Link to project])
+<h1 align="center">Languages And Tools</h1>
 
-<h2 align="center"> Contributions</h2>
-
-I am passionate about open-source software and have contributed to a number of projects. Here are a few of my highlights:
-
-* [Project Name] ([Link to project])
-* [Project Name] ([Link to project])
-* [Project Name] ([Link to project])
-
-I am always looking for new open-source projects to contribute to. If you are working on an open-source project and you would like me to contribute, please feel free to reach out to me.
-
-<h2 align="center"> Contact</h2>
-
-* [Email address]
-* [LinkedIn profile URL]
-* [GitHub profile URL]
-
-I am always looking for new opportunities to learn and grow as a developer. If you are interested in working with me, please feel free to reach out.
-
-**[Link to trophy](https://github-profile-trophy.vercel.app/?username=Ramtamang-2058)**
-
-**[Link to GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=tokyonight&showicons=true)**
-
-**[Link to GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight)**
+<p align="center">
+  <img alt="Visual Studio Code" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="Git" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img alt="HTML5" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+  <img alt="CSS3" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+  <img alt="JavaScript" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img alt="AWS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="OpenCV" width="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /> 
+  <img alt="Python" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="Scikit Learn" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+  <img alt="TensorFlow" width="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
+</p>
