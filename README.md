@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Ramtamang-2058/Ramtamang-2058/blob/main/assets/banner.png" alt="Banner">
+  <img src="![github-header-image](https://github.com/Ramtamang-2058/Ramtamang-2058/assets/84068736/0f668e26-6536-4788-bb74-8057a9f78b1b)
+" alt="Banner">
 </p>
 
 <h1 align="center">👋 Hello, I'm Ram Tamang</h1>
