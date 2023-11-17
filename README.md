@@ -1,28 +1,18 @@
-
-
-
-
 <h1 align="center">👋 I am Ram Tamang</h1>
 
 <h3 align="center">Python Backend Developer </h3>
 
-
-
-
-- 🔭 also intrest in IOT (internet of things) , Agumented reality , virtual reality & Metaverse
-- 🌱 Learning new day new things
+- 🔭 also interested in IOT (internet of things), Augmented reality, virtual reality & Metaverse
+- 🌱 Learning new things every day
 - 🥅 Always ready to learn
-- 👯 I love to do  projects
+- 👯 I love to do projects
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ramtamang-2058)](https://github.com/Ramtamang-2058/github-profile-trophy)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight)](https://github.com/readme-stats/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight)]()
-
-
-<h1 align="center"> Languages And Tools : <h1>
-
+<h1 align="center"> Languages And Tools : </h1>
 
 <img align="center" alt="Visual Studio Code" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="git" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
