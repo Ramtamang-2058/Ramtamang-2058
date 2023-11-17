@@ -7,7 +7,7 @@
 <h3 align="center">Python Backend Developer | Exploring the Frontiers of Technology</h3>
 
 <p align="center">
-  <a href="https://twitter.com/ramtamang"><img alt="Twitter" src="https://img.shields.io/twitter/follow/your_twitter_handle?style=for-the-badge&logo=twitter&logoColor=white&color=blue">follow</a>
+  <a href="https://twitter.com/ramtamang"><img alt="Twitter" src="https://img.shields.io/twitter/follow/your_twitter_handle?style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a>
   <a href="https://www.linkedin.com/in/ram-tamang-a73241198/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
