@@ -2,25 +2,53 @@
 
 <h3 align="center">Python Backend Developer </h3>
 
-- 🔭 also interested in IOT (internet of things), Augmented reality, virtual reality & Metaverse
-- 🌱 Learning new things every day
-- 🥅 Always ready to learn
-- 👯 I love to do projects
+I am a passionate Python Backend Developer with a keen interest in IoT (Internet of Things), Augmented Reality, Virtual Reality, and the Metaverse. I am constantly learning new things and am always eager to take on new challenges. I am also a project lover and enjoy working on a variety of projects.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ramtamang-2058)](https://github.com/Ramtamang-2058/github-profile-trophy)
+<h2 align="center"> Skills and Tools</h2>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=tokyonight&showicons=true)](https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight)](https://github.com/readme-stats/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight)
+* Proficient in Python
+* Experience with Django and Flask
+* Familiarity with SQL and NoSQL databases
+* Cloud computing experience with AWS and GCP
+* DevOps knowledge
+* Proficient in Visual Studio Code and Git
+* Experienced with HTML5, CSS3, and JavaScript
+* Familiarity with Amazon Web Services (AWS) and OpenCV
+* Experience with Python libraries such as scikit-learn and TensorFlow
 
-<h1 align="center"> Languages And Tools : </h1>
+<h2 align="center"> Experience</h2>
 
-<img align="center" alt="Visual Studio Code" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="git" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="center" alt="HTML5" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
-<img align="center" alt="CSS3" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
-<img align="center" alt="JavaScript" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50"/> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" />
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50"/>
-<img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50"/>
+**[Company Name]** | **Title** | **Dates**
+---|---
+---|---
+[Your Company] | [Your Job Title] | [Your Start Date] - [Your End Date]
+
+<h2 align="center"> Projects</h2>
+
+* [Project Name] ([Link to project])
+* [Project Name] ([Link to project])
+* [Project Name] ([Link to project])
+
+<h2 align="center"> Contributions</h2>
+
+I am passionate about open-source software and have contributed to a number of projects. Here are a few of my highlights:
+
+* [Project Name] ([Link to project])
+* [Project Name] ([Link to project])
+* [Project Name] ([Link to project])
+
+I am always looking for new open-source projects to contribute to. If you are working on an open-source project and you would like me to contribute, please feel free to reach out to me.
+
+<h2 align="center"> Contact</h2>
+
+* [Email address]
+* [LinkedIn profile URL]
+* [GitHub profile URL]
+
+I am always looking for new opportunities to learn and grow as a developer. If you are interested in working with me, please feel free to reach out.
+
+**[Link to trophy](https://github-profile-trophy.vercel.app/?username=Ramtamang-2058)**
+
+**[Link to GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Ramtamang-2058&count_private=true&theme=tokyonight&showicons=true)**
+
+**[Link to GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtamang-2058&langs_count=4&theme=tokyonight)**
